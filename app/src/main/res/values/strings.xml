@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aperto Twitter Trends</string>
+    <string name="Action.ShowTweet.Logout">Log Out</string>
+</resources>
